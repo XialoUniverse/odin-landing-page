@@ -127,3 +127,23 @@ img {
     margin: 0px 100px 0px 0px;
     align-self: flex-end;   
 }
+
+.cta {
+    background-color: #3882f6;
+    margin: 80px 150px;
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    color:#f9faf8;
+}
+
+.cta button {
+    background-color: transparent;
+    border: 2px solid  #f9faf8;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: #f9faf8;
+}
+

@@ -81,6 +81,10 @@ img {
     margin-bottom: 20px;
 }
 
+.information img {
+    height: 80%;
+}
+
 .card-container {
     display: flex;
     justify-content: space-around;
